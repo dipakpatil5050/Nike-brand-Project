@@ -14,6 +14,9 @@ This project is currently in development. Users can filter tweets by username an
 
 #### Example:   
 
+![image](https://github.com/dipakpatil5050/Nike-brand-Project/assets/92545685/0e660bfa-2950-44c1-985f-59075518b4a5)
+
+
 
 
 ## Installation and Setup Instructions
