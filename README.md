@@ -8,7 +8,7 @@ An application used to filter data form Twitter based on user preference, built 
 
 #### Example:
 
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+This project is currently in development. Users can filter for shopping for particular products. The functionality to sort by additional parameters is in progress.
 
 ## Project Screen Shot(s)
 
