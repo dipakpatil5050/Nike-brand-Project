@@ -1,7 +1,8 @@
 ## Nike brand page with React.js
 # React + Vite
 
-Live Link of Project : https://nike-brand-project-seven.vercel.app/
+Live Link of Deployed Project : https://nike-brand-project-seven.vercel.app/
+
 TweetWorld 
 
 An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
