@@ -3,9 +3,9 @@
 
 Live Link of Deployed Project : https://nike-brand-project-seven.vercel.app/
 
-TweetWorld 
+shoe site 
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+An application used to filter data form E-commerce based on user preference, built with React, Redux, JavaScript, and CSS.
 
 ## Project Status
 
